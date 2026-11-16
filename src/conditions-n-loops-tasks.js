@@ -428,7 +428,7 @@ function rotateMatrix(matrix) {
  *  [-2, 9, 5, -3]  => [-3, -2, 5, 9]
  */
 function sortByAsc(/* arr */) {
-  throw new Error('Not implemented');
+  /*throw new Error('Not implemented')*/  return 0;
 }
 
 /**
@@ -449,7 +449,7 @@ function sortByAsc(/* arr */) {
  *  'qwerty', 3 => 'qetwry' => 'qtrewy' => 'qrwtey'
  */
 function shuffleChar(/* str, iterations */) {
-  throw new Error('Not implemented');
+  /*throw new Error('Not implemented')*/  return 0;
 }
 
 /**
@@ -471,7 +471,7 @@ function shuffleChar(/* str, iterations */) {
  *
  */
 function getNearestBigger(/* number */) {
-  throw new Error('Not implemented');
+  /*throw new Error('Not implemented')*/  return 0;
 }
 
 module.exports = {
